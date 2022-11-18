@@ -181,7 +181,7 @@
                     if (response != "error")
                     {   
                         //if(response==10){
-                            window.location.href = '/monitoreo/mod_evento';
+                            window.location.href = '/intranet/mod_evento';
                         //}else{
                         //    window.location.href = '/chazqui/mod_repuestos/';
                         //}
