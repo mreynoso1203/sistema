@@ -19,6 +19,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 
 --comentario2
 --comentario
+--comentario
 
 -- ----------------------------
 -- Table structure for settings
